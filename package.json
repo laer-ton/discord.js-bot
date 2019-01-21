@@ -1,0 +1,14 @@
+{
+  "name": "discord.js_bot",
+  "version": "1.0.0",
+  "description": "The standard base discord bot. Only gonna use this for git cloning bc I'm too lazy to make more of these",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Laer Ton#0393",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
